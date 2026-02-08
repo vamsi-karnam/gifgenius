@@ -1,7 +1,6 @@
 # API docs link: https://docs.klipy.com/gifs-api/gifs-search-api
 
 import requests
-import os
 
 # CONFIG
 with open("klipy_api.key", "r") as f:  # klipy_api.key file contains one line which is the API key (no quotes/no spaces)
