@@ -4,7 +4,7 @@ A chatbot that tries to reply with the perfect witty GIF for anything you ask it
 ## Instructions
 1. Clone the repo to local
 2. Install the requirements
-   - pip install requirements.txt
+   - pip install -r requirements.txt
 4. Get an API key from [Klipy](https://klipy.com/developers)
 5. Get an API key from [OpenAI](https://platform.openai.com/api-keys)
 6. Navigate to "klipy_gifs"
